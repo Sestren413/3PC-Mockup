@@ -1,0 +1,5 @@
+Project from UT Distributed Computing class
+
+Creates five processes which use a three phase commit algorithm to keep a playlist mockup synchronised between them.
+
+The code structure is somewhat ad-hoc because I was figuring out the basics of network programming and multiprocessing with Python on my own.

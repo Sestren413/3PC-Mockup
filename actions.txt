@@ -1,0 +1,5 @@
+add "song1" "http://genericurl.net/music/song1.mp3"
+add "song2" "http://genericurl.net/music/song2.mp3"
+add "song3" "http://genericurl.net/music/song3.mp3"
+edit "song1" "song1remix" "http://genericurl.net/music/song1remix.mp3"
+remove "song2"
